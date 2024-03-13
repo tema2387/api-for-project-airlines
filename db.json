@@ -1,0 +1,29 @@
+{
+  "genres": [
+  { "id": 1, "name_ru": "Боевик", "name_eng": "action", "poster": "https://static.pantone.ru/public/HYDKJEJ6KPaw3KJnPP9s3A/gradient-1080x675.jpg" },
+  { "id": 2, "name_ru": "Триллер", "name_eng": "thriller", "poster": "https://static.pantone.ru/public/HYDKJEJ6KPaw3KJnPP9s3A/gradient-1080x675.jpg" },
+  { "id": 3, "name_ru": "Фэнтези", "name_eng": "fantasy", "poster": "https://static.pantone.ru/public/HYDKJEJ6KPaw3KJnPP9s3A/gradient-1080x675.jpg" },
+  { "id": 4, "name_ru": "Приключения", "name_eng": "adventure", "poster": "https://static.pantone.ru/public/HYDKJEJ6KPaw3KJnPP9s3A/gradient-1080x675.jpg" },
+  { "id": 5, "name_ru": "Комедия", "name_eng": "comedy", "poster": "https://static.pantone.ru/public/HYDKJEJ6KPaw3KJnPP9s3A/gradient-1080x675.jpg" },
+  { "id": 6, "name_ru": "Драма", "name_eng": "drama", "poster": "https://static.pantone.ru/public/HYDKJEJ6KPaw3KJnPP9s3A/gradient-1080x675.jpg" },
+  { "id": 7, "name_ru": "Мелодрама", "name_eng": "melodrama", "poster": "https://static.pantone.ru/public/HYDKJEJ6KPaw3KJnPP9s3A/gradient-1080x675.jpg" },
+  { "id": 8, "name_ru": "Мультфильм", "name_eng": "cartoon", "poster": "https://static.pantone.ru/public/HYDKJEJ6KPaw3KJnPP9s3A/gradient-1080x675.jpg" },
+  { "id": 9, "name_ru": "Детектив", "name_eng": "detective", "poster": "https://static.pantone.ru/public/HYDKJEJ6KPaw3KJnPP9s3A/gradient-1080x675.jpg" },
+  { "id": 10, "name_ru": "Аниме", "name_eng": "anime", "poster": "https://static.pantone.ru/public/HYDKJEJ6KPaw3KJnPP9s3A/gradient-1080x675.jpg" },
+  { "id": 11, "name_ru": "Криминал", "name_eng": "crime", "poster": "https://static.pantone.ru/public/HYDKJEJ6KPaw3KJnPP9s3A/gradient-1080x675.jpg" },
+  { "id": 12, "name_ru": "Биография", "name_eng": "biography", "poster": "https://static.pantone.ru/public/HYDKJEJ6KPaw3KJnPP9s3A/gradient-1080x675.jpg" },
+  { "id": 13, "name_ru": "История", "name_eng": "history", "poster": "https://static.pantone.ru/public/HYDKJEJ6KPaw3KJnPP9s3A/gradient-1080x675.jpg" },
+  { "id": 14, "name_ru": "Ужасы", "name_eng": "horror", "poster": "https://static.pantone.ru/public/HYDKJEJ6KPaw3KJnPP9s3A/gradient-1080x675.jpg" },
+  { "id": 15, "name_ru": "Спорт", "name_eng": "sport", "poster": "https://static.pantone.ru/public/HYDKJEJ6KPaw3KJnPP9s3A/gradient-1080x675.jpg" },
+  { "id": 16, "name_ru": "Военный", "name_eng": "military", "poster": "https://static.pantone.ru/public/HYDKJEJ6KPaw3KJnPP9s3A/gradient-1080x675.jpg" },
+  { "id": 17, "name_ru": "Музыка", "name_eng": "music", "poster": "https://static.pantone.ru/public/HYDKJEJ6KPaw3KJnPP9s3A/gradient-1080x675.jpg" },
+  { "id": 18, "name_ru": "Вестерн", "name_eng": "western", "poster": "https://static.pantone.ru/public/HYDKJEJ6KPaw3KJnPP9s3A/gradient-1080x675.jpg" },
+  { "id": 19, "name_ru": "Фантастика", "name_eng": "fantasy-2", "poster": "https://static.pantone.ru/public/HYDKJEJ6KPaw3KJnPP9s3A/gradient-1080x675.jpg" },
+  { "id": 20, "name_ru": "Семейный", "name_eng": "family", "poster": "https://static.pantone.ru/public/HYDKJEJ6KPaw3KJnPP9s3A/gradient-1080x675.jpg" },
+  { "id": 21, "name_ru": "Мюзикл", "name_eng": "musical", "poster": "https://static.pantone.ru/public/HYDKJEJ6KPaw3KJnPP9s3A/gradient-1080x675.jpg" },
+  { "id": 22, "name_ru": "Фильм-нуар", "name_eng": "noir", "poster": "https://static.pantone.ru/public/HYDKJEJ6KPaw3KJnPP9s3A/gradient-1080x675.jpg" }
+  ],
+  "profile": {
+    "name": "Profile 1"
+  }
+}
