@@ -10,7 +10,11 @@
     "arrival_time": "22:10",
     "carrier": "TK",
     "stops": 3,
-    "price": 12400
+    "price": {
+        "RUB": 12400,
+        "USD": 135,
+        "EUR": 123,
+    },
   }, {
     "origin": "VVO",
     "origin_name": "Владивосток",
@@ -22,7 +26,11 @@
     "arrival_time": "23:50",
     "carrier": "S7",
     "stops": 1,
-    "price": 13100
+    "price": {
+        "RUB": 13100,
+        "USD": 143,
+        "EUR": 130,
+    },
   }, {
     "origin": "VVO",
     "origin_name": "Владивосток",
@@ -34,7 +42,11 @@
     "arrival_time": "18:10",
     "carrier": "SU",
     "stops": 0,
-    "price": 15300
+    "price": {
+        "RUB": 15300,
+        "USD": 167,
+        "EUR": 153,
+    },
   }, {
     "origin": "VVO",
     "origin_name": "Владивосток",
@@ -46,7 +58,11 @@
     "arrival_time": "23:30",
     "carrier": "TK",
     "stops": 2,
-    "price": 11000
+    "price": {
+        "RUB": 11000,
+        "USD": 120,
+        "EUR": 110,
+    },
   }, {
     "origin": "VVO",
     "origin_name": "Владивосток",
@@ -58,7 +74,11 @@
     "arrival_time": "20:15",
     "carrier": "BA",
     "stops": 3,
-    "price": 13400
+    "price": {
+        "RUB": 13400,
+        "USD": 146,
+        "EUR": 134,
+    },
   }, {
     "origin": "VVO",
     "origin_name": "Владивосток",
@@ -70,7 +90,11 @@
     "arrival_time": "19:25",
     "carrier": "SU",
     "stops": 3,
-    "price": 12450
+    "price": {
+        "RUB": 12450,
+        "USD": 136,
+        "EUR": 125,
+    },
   }, {
     "origin": "VVO",
     "origin_name": "Владивосток",
@@ -82,7 +106,11 @@
     "arrival_time": "23:45",
     "carrier": "TK",
     "stops": 1,
-    "price": 13600
+    "price": {
+        "RUB": 13600,
+        "USD": 148,
+        "EUR": 136,
+    },
   }, {
     "origin": "VVO",
     "origin_name": "Владивосток",
@@ -94,7 +122,11 @@
     "arrival_time": "15:25",
     "carrier": "TK",
     "stops": 0,
-    "price": 14250
+    "price": {
+        "RUB": 14250,
+        "USD": 155,
+        "EUR": 142,
+    },
   }, {
     "origin": "VVO",
     "origin_name": "Владивосток",
@@ -106,7 +138,11 @@
     "arrival_time": "23:35",
     "carrier": "SU",
     "stops": 1,
-    "price": 16700
+    "price": {
+        "RUB": 16700,
+        "USD": 182,
+        "EUR": 167,
+    },
   }, {
     "origin": "VVO",
     "origin_name": "Владивосток",
@@ -118,7 +154,11 @@
     "arrival_time": "16:15",
     "carrier": "S7",
     "stops": 0,
-    "price": 17400
+    "price": {
+        "RUB": 17400,
+        "USD": 189,
+        "EUR": 174,
+    },
   }],
   "profile": {
     "name": "airlines"
