@@ -11,7 +11,7 @@
     "carrier": "TK",
     "stops": 3,
     "price": {
-        "RUB": 12400,
+        "rub": 12400,
         "USD": 135,
         "EUR": 123,
     },
